@@ -207,3 +207,9 @@ Warsaw, Poland
 If you like my work, consider giving a ⭐ to my repositories and feel free to connect with me!
 
 </p>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ksolo15/Ksolo15/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ksolo15/Ksolo15/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/GanhairoGenius/GanhairoGenius/output/github-snake.svg" />
+</picture>
