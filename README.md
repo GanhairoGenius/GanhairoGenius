@@ -1,134 +1,160 @@
-## Hi there 👋# Hi 👋, I'm Your Name
+# Hi there 👋, I'm **Genius Ganhairo**
 
-### Full Stack Developer | Software Engineer | Open Source Enthusiast
+### QA Automation Engineer | Test Automation Enthusiast | Computer Engineering Student
 
-Welcome to my GitHub profile! I'm passionate about building scalable applications, learning new technologies, and solving real-world problems through code.
+I'm a QA Automation Engineer based in **Warsaw, Poland** with hands-on experience building scalable end-to-end automation frameworks for enterprise web applications. I enjoy improving software quality through automation, continuous learning, and leveraging AI to accelerate testing workflows.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Currently working on: **Your Current Project**
-- 🌱 Currently learning: **Technology/Framework**
-- 🔭 Interested in: **AI, Web Development, Cloud, DevOps, etc.**
-- 💬 Ask me about: **JavaScript, Python, React, Node.js, etc.**
-- 📫 Reach me at: **your.email@example.com**
-- 🌍 Portfolio: **https://yourportfolio.com**
-- ⚡ Fun fact: **Something interesting about you**
+* 🔭 Currently working as a **QA Automation Engineer Intern at Kyriba**
+* 🎓 Bachelor's in Computer Engineering at **Vistula University** (2022–2026)
+* 🌱 Currently expanding my knowledge in **Cloud, DevOps, and Advanced Test Automation**
+* 🤖 Passionate about AI-assisted software testing and automation
+* 🧪 Experienced in both Manual and Automated Testing
+* ⚡ Interested in Software Quality, Test Architecture, CI/CD, and Cloud Technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C++
+### UI Automation
 
-### Frontend
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+* Playwright
+* Selenium
+* Robot Framework
+* Page Object Model (POM)
 
-### Backend
-- Node.js
-- Express.js
-- Django
-- Flask
+### Programming & Scripting
 
-### Database
-- MongoDB
-- MySQL
-- PostgreSQL
+* TypeScript
+* Python
+* SQL
+* Bash / Unix Shell
 
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
-- Linux
+### Testing Frameworks & Tools
 
----
+* Cucumber (BDD)
+* Postman
+* Chrome DevTools
+* DataDog
 
-## 📈 GitHub Stats
+### Test Management
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+* Jira
+* XRAY
+* qTest
+* Test Case Design
+* Defect Reporting
+* Requirements Traceability
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### CI/CD & DevOps
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+* Jenkins
+* GitLab CI/CD
+* Docker
+* Git
+* GitHub
+* GitLab
 
----
+### QA Methodologies
 
-## 🏆 Featured Projects
+* SDLC
+* STLC
+* Manual Testing
+* Automation Testing
+* Regression Testing
+* Exploratory Testing
+* Cross-Browser Testing
+* API Testing
+* UI Testing
 
-### 🚀 Project One
-Short description of your project.
+### AI Tools
 
-**Tech:** React, Node.js, MongoDB
-
-🔗 Repository: https://github.com/YOUR_USERNAME/project-one
-
----
-
-### 📱 Project Two
-Short description of your project.
-
-**Tech:** Python, Flask, PostgreSQL
-
-🔗 Repository: https://github.com/YOUR_USERNAME/project-two
+* Dust AI Agents
+* Claude AI
+* AI-assisted Test Generation
+* Root Cause Analysis
+* Defect Reporting
 
 ---
 
-### 🤖 Project Three
-Short description of your project.
+## 💼 Professional Experience
 
-**Tech:** Next.js, TypeScript, Firebase
+### QA Automation Engineer Intern
 
-🔗 Repository: https://github.com/YOUR_USERNAME/project-three
+**Kyriba** • June 2025 – June 2026
 
----
-
-## 📊 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://yourportfolio.com
-- Twitter/X: https://twitter.com/YOUR_USERNAME
-- Email: your.email@example.com
+* Built scalable UI automation frameworks using **Playwright**, **TypeScript**, and **Cucumber (BDD)**.
+* Implemented maintainable **Page Object Model (POM)** architecture.
+* Performed API validation using **Postman** and **Chrome DevTools**.
+* Executed cross-browser testing across Chrome, Edge, and Safari.
+* Managed test cases and traceability using **XRAY** and **qTest**.
+* Debugged CI/CD pipelines running in Docker environments.
+* Collaborated within Agile Scrum teams.
+* Leveraged AI tools (Dust & Claude) to accelerate automation development and defect analysis.
 
 ---
 
-## 💡 Quote
+## 🎓 Education
 
-> "Code. Learn. Build. Repeat."
+**Bachelor of Computer Engineering**
+
+Vistula University
+
+Warsaw, Poland
+
+2022 – 2026
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 📜 Certifications
 
-<!--
-**GanhairoGenius/GanhairoGenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+* ✅ ISTQB Foundation (Cert Prep)
+* 📮 Postman Essential Training
+* 🧪 Programming Foundations: Software Testing / QA
+* 🤖 Test Automation Foundations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanhairoGenius\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GanhairoGenius\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanhairoGenius\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 Current Focus
+
+* 🚀 Building robust UI automation frameworks
+* 🤖 AI-powered software testing
+* ☁️ Cloud technologies (AWS)
+* 🔄 CI/CD automation
+* 🧪 Enterprise Quality Assurance
+
+---
+
+## 🌍 Connect With Me
+
+📧 **Email:** [geniusganhairo@gmail.com](mailto:geniusganhairo@gmail.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/genius-ganhairo-a67a07278/
+
+💻 **GitHub:** https://github.com/GanhairoGenius
+
+📍 **Location:** Warsaw, Poland
+
+---
+
+## 💡 Favorite Quote
+
+> "Quality is never an accident; it is always the result of intelligent effort."
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories, connect with me, or collaborate on exciting QA Automation and Software Engineering projects.
